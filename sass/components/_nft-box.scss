@@ -63,7 +63,7 @@
         }
 
         &__price::before{
-            content: url("../../images/icon-ethereum.svg");
+            content: url("../images/icon-ethereum.svg");
             margin-right: .8rem;   
         }
 
@@ -72,7 +72,7 @@
         }
 
         &__created-at::before{
-            content: url("../../images/icon-clock.svg");           
+            content: url("../images/icon-clock.svg");           
             margin-right: .8rem;
             
         }
