@@ -29,7 +29,7 @@
             }          
         }
     }
-    
+
     &-body{
         display: flex;
         flex-direction: column;
@@ -116,31 +116,6 @@
             cursor: pointer;
             color: $cyan;
             transition: all .5s;
-        }
-    }
-
-    @include media-min-query(1000px){
-        &::before{
-            content: '';
-            position: absolute;
-            align-self: center;
-            background-color: rgba($color: $very-dark-blue-main-bg, $alpha: 1);
-            width: 35rem;
-            height: 83%;
-            border-radius: 10%;
-            z-index: -1;
-        }
-    
-        &::after{
-            content: '';
-            position: absolute;
-            align-self: center;
-            background-color: rgba($color: $very-dark-blue-card-bg, $alpha: .1);
-            width: 40rem;
-            height: 94%;
-            border-radius: 10%;
-            top: 2rem;
-            z-index: -2;
         }
     }
 }

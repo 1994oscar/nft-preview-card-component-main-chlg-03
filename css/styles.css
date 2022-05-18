@@ -162,28 +162,5 @@ footer {
   color: hsl(178deg, 100%, 50%);
   transition: all 0.5s;
 }
-@media screen and (min-width: 1000px) {
-  .nft-box::before {
-    content: "";
-    position: absolute;
-    align-self: center;
-    background-color: #0d192b;
-    width: 35rem;
-    height: 83%;
-    border-radius: 10%;
-    z-index: -1;
-  }
-  .nft-box::after {
-    content: "";
-    position: absolute;
-    align-self: center;
-    background-color: rgba(20, 37, 61, 0.1);
-    width: 40rem;
-    height: 94%;
-    border-radius: 10%;
-    top: 2rem;
-    z-index: -2;
-  }
-}
 
 /*# sourceMappingURL=styles.css.map */
