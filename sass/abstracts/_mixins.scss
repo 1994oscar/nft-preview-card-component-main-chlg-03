@@ -1,0 +1,6 @@
+@mixin media-min-query($min){
+
+    @media screen and (min-width: $min){
+        @content;
+    }
+}
