@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/1994oscar/nft-preview-card-component-main-chlg-03](https://github.com/1994oscar/nft-preview-card-component-main-chlg-03)
+- Live Site URL: [NFT preview card component challenge](https://www.nft-preview-card-component.xn--oscarziga-q6a2h.com/)
 
 ## My process
 
